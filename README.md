@@ -9,7 +9,7 @@ and financial attributes.
 
 ## Analysis Performed
 - Data cleaning and preprocessing
-- - Exploratory data analysis (EDA)
+- Exploratory data analysis (EDA)
 - Clustering Analysis
 
 ## Purpose
